@@ -1,2 +1,6 @@
-# ks-contentful-ui-extensions
-[KS | M] How to create UI extensions for Cotentful
+# Contentful UI Extensions
+
+| Type | Knowledge Sharing |
+| - | - |
+| Size | M |
+| Topic | How to create custom UI extensions for Contentful |
